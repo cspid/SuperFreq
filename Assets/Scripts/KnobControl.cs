@@ -29,6 +29,7 @@ public class KnobControl : MonoBehaviour
 		if (gameObject.name == "Knob 5") knob = 5;
 		if (gameObject.name == "Knob 6") knob = 6;
 
+        
 		slider.minValue = 0;
 		slider.maxValue = 10;
 
