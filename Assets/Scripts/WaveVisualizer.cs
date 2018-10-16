@@ -14,7 +14,7 @@ public class WaveVisualizer : MonoBehaviour
     Color backgroundColor = Color.black;
     public Color waveformColor1 = Color.green;
 	public Color waveformColor2 = Color.green;
-	public Color waveformColor3 = Color.green;
+	//public Color waveformColor3 = Color.green;
     public int size = 2048; // size of sound segment displayed in texture
 
     private Color[] blank; // blank image array 
@@ -25,7 +25,7 @@ public class WaveVisualizer : MonoBehaviour
 
 	public AudioSource audio1;
 	public AudioSource audio2;
-	public AudioSource audio3;
+	//public AudioSource audio3;
 
 
     IEnumerator Start()
@@ -66,7 +66,7 @@ public class WaveVisualizer : MonoBehaviour
         // get samples from channel 0 (left) 
         audio1.GetOutputData(samples1, 0);
 		audio2.GetOutputData(samples2, 0);
-		audio3.GetOutputData(samples3, 0);
+		//audio3.GetOutputData(samples3, 0);
 
         
         // draw the waveform 
@@ -74,7 +74,7 @@ public class WaveVisualizer : MonoBehaviour
         {
             texture.SetPixel((int)(width * i / size), (int)(height * (samples1[i] + 1f) / 2f), waveformColor1);
 			texture.SetPixel((int)(width * 1.3f * i / size), (int)(height * (samples2[i] + 1f) / 2f), waveformColor2);
-			texture.SetPixel((int)(width * i / size), (int)(height * (samples3[i] + 1f) / 2f), waveformColor3);
+			//texture.SetPixel((int)(width * i / size), (int)(height * (samples3[i] + 1f) / 2f), waveformColor3);
         } // upload to the graphics card 
 
         texture.Apply();
