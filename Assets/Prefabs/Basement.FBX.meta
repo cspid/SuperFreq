@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: acc20dc05f3de42cfa3d40bfaf6cb48d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Board
+    100004: Box003
+    100006: Box004
+    100008: Box005
+    100010: Box006
+    100012: Box007
+    100014: Clock
+    100016: Clock 1
+    100018: Console
+    100020: Cylinder001
+    100022: Cylinder002
+    100024: Cylinder003
+    100026: Cylinder004
+    100028: Cylinder005
+    100030: Cylinder006
+    100032: Cylinder007
+    100034: Door
+    100036: Door 1
+    100038: DoorKnob
+    100040: Floor
+    100042: Hours
+    100044: Lower Lock
+    100046: Minutes
+    100048: Node Console
+    100050: Node002
+    100052: Node003
+    100054: Node004
+    100056: Node005
+    100058: Node006
+    100060: Node01
+    100062: Radio
+    100064: Radio 1
+    100066: Radio002
+    100068: RadioLight
+    100070: RadioNode
+    100072: Safe
+    100074: Safe 1
+    100076: Safe Door
+    100078: Safe Handle
+    100080: SafeDoor
+    100082: Table
+    100084: Table Legs
+    100086: TableTop
+    100088: TV
+    100090: Upper Lock
+    100092: Wall
+    400000: //RootNode
+    400002: Board
+    400004: Box003
+    400006: Box004
+    400008: Box005
+    400010: Box006
+    400012: Box007
+    400014: Clock
+    400016: Clock 1
+    400018: Console
+    400020: Cylinder001
+    400022: Cylinder002
+    400024: Cylinder003
+    400026: Cylinder004
+    400028: Cylinder005
+    400030: Cylinder006
+    400032: Cylinder007
+    400034: Door
+    400036: Door 1
+    400038: DoorKnob
+    400040: Floor
+    400042: Hours
+    400044: Lower Lock
+    400046: Minutes
+    400048: Node Console
+    400050: Node002
+    400052: Node003
+    400054: Node004
+    400056: Node005
+    400058: Node006
+    400060: Node01
+    400062: Radio
+    400064: Radio 1
+    400066: Radio002
+    400068: RadioLight
+    400070: RadioNode
+    400072: Safe
+    400074: Safe 1
+    400076: Safe Door
+    400078: Safe Handle
+    400080: SafeDoor
+    400082: Table
+    400084: Table Legs
+    400086: TableTop
+    400088: TV
+    400090: Upper Lock
+    400092: Wall
+    2100000: No Name
+    2300000: Board
+    2300002: Box003
+    2300004: Box004
+    2300006: Box005
+    2300008: Box006
+    2300010: Box007
+    2300012: Clock 1
+    2300014: Console
+    2300016: Cylinder001
+    2300018: Cylinder002
+    2300020: Cylinder003
+    2300022: Cylinder004
+    2300024: Cylinder005
+    2300026: Cylinder006
+    2300028: Cylinder007
+    2300030: Door 1
+    2300032: DoorKnob
+    2300034: Floor
+    2300036: Hours
+    2300038: Minutes
+    2300040: Node002
+    2300042: Node003
+    2300044: Node004
+    2300046: Node005
+    2300048: Node006
+    2300050: Node01
+    2300052: Radio 1
+    2300054: Radio002
+    2300056: RadioLight
+    2300058: RadioNode
+    2300060: Safe 1
+    2300062: Safe Door
+    2300064: TableTop
+    2300066: TV
+    2300068: Wall
+    3300000: Board
+    3300002: Box003
+    3300004: Box004
+    3300006: Box005
+    3300008: Box006
+    3300010: Box007
+    3300012: Clock 1
+    3300014: Console
+    3300016: Cylinder001
+    3300018: Cylinder002
+    3300020: Cylinder003
+    3300022: Cylinder004
+    3300024: Cylinder005
+    3300026: Cylinder006
+    3300028: Cylinder007
+    3300030: Door 1
+    3300032: DoorKnob
+    3300034: Floor
+    3300036: Hours
+    3300038: Minutes
+    3300040: Node002
+    3300042: Node003
+    3300044: Node004
+    3300046: Node005
+    3300048: Node006
+    3300050: Node01
+    3300052: Radio 1
+    3300054: Radio002
+    3300056: RadioLight
+    3300058: RadioNode
+    3300060: Safe 1
+    3300062: Safe Door
+    3300064: TableTop
+    3300066: TV
+    3300068: Wall
+    4300000: Floor
+    4300002: Box006
+    4300004: Box005
+    4300006: Box004
+    4300008: Box003
+    4300010: TableTop
+    4300012: Board
+    4300014: Wall
+    4300016: Hours
+    4300018: Minutes
+    4300020: Clock
+    4300022: Door
+    4300024: DoorKnob
+    4300026: TV
+    4300028: Node006
+    4300030: Node005
+    4300032: Node004
+    4300034: Node003
+    4300036: Node002
+    4300038: Node01
+    4300040: Console
+    4300042: Radio
+    4300044: RadioLight
+    4300046: RadioNode
+    4300048: Safe Door
+    4300050: Box007
+    4300052: Cylinder005
+    4300054: Cylinder004
+    4300056: Cylinder003
+    4300058: Cylinder001
+    4300060: Cylinder002
+    4300062: Safe
+    4300064: Radio002
+    4300066: Cylinder006
+    4300068: Cylinder007
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
