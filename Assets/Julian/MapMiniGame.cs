@@ -67,12 +67,13 @@ public class MapMiniGame : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-        knob1.slider.minValue = -10;
+        /*knob1.slider.minValue = -10;
         knob1.slider.maxValue = 10;
 
         knob2.slider.minValue = -10; 
         knob2.slider.maxValue = 10;
-        CircleFinder.anchoredPosition3D =  new Vector3( knob1float*25, knob2float*25, CircleFinder.anchoredPosition3D.z);
+        */
+        CircleFinder.anchoredPosition3D =  new Vector3( knob1float*50, knob2float*50, CircleFinder.anchoredPosition3D.z);
 
         Beeping();
         FindTowers();
@@ -85,12 +86,12 @@ public class MapMiniGame : MonoBehaviour {
 
     void RadioTowerSignals()
     {
-        knob1float = knob1.potValue / 5;
-        knob2float = knob2.potValue / 5;
-        knob3float = knob3.potValue / 5;
-        knob4float = knob4.potValue / 5;
-        knob5float = knob5.potValue / 5;
-        knob6float = knob6.potValue / 5;
+        knob1float = knob1.potValue/5;
+        knob2float = knob2.potValue/5;
+        knob3float = knob3.potValue/5;
+        knob4float = knob4.potValue/5;
+        knob5float = knob5.potValue/5;
+        knob6float = knob6.potValue/5;
 
         signal1.x = knob3float;
         signal1.y = knob3float * 2;
@@ -117,7 +118,7 @@ public class MapMiniGame : MonoBehaviour {
         distanceBetween3 = Vector3.Distance(CircleFinder.position, Tower3.transform.position);
 
 
-        if (((knob1float * 5 < 8.5f) && (knob1float * 5 > 7.0f)) && ((knob2float * 5 < 3.5f) && (knob2float * 5 > 0.5f)))
+        if (((knob1float * 5 < 9.5f) && (knob1float * 5 > 8.5f)) && ((knob2float * 5 < 6.5f) && (knob2float * 5 > 5.5f)))
         {
             //Debug.Log("tower1");
             Tower1.SetActive(true);
@@ -128,7 +129,7 @@ public class MapMiniGame : MonoBehaviour {
 
         if (tower1Found == true)
         {
-            if (((knob1float * 5 < -2.0f) && (knob1float * 5 > -4.0f)) && ((knob2float * 5 > -8.0f) && (knob2float * 5 < -4.5f)))
+            if (((knob1float * 5 < 4.0f) && (knob1float * 5 > 3.0f)) && ((knob2float * 5 > 2.0f) && (knob2float * 5 < 3.0f)))
             {
                 //Debug.Log("tower2");
                 Tower2.SetActive(true);
@@ -139,7 +140,7 @@ public class MapMiniGame : MonoBehaviour {
         }
         if (tower2Found == true)
         {
-            if (((knob1float * 5 < -5.5f) && (knob1float * 5 > -7.5f)) && ((knob2float * 5 > 5.5f) && (knob2float * 5 < 9.0f)))
+            if (((knob1float * 5 < 2.0f) && (knob1float * 5 > 1.0f)) && ((knob2float * 5 > 8.5f) && (knob2float * 5 < 9.5f)))
             {
                // Debug.Log("tower3");
                 Tower3.SetActive(true);
