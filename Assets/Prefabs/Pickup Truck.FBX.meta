@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 54526cad7778b0e4cbd7cf2f4db8b6b8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: '10 Bottle '
+    100002: 10 Bottle 001
+    100004: Banco
+    100006: Banco 1
+    100008: Box008
+    100010: Node Console
+    100012: Node002
+    100014: Node003
+    100016: Node004
+    100018: Node005
+    100020: Node006
+    100022: Node01
+    100024: paper sheet
+    100026: paper sheet001
+    100028: paper sheet002
+    100030: //RootNode
+    100032: polySurface1
+    100034: Seats
+    100036: toyota
+    100038: TV
+    100040: Wheel
+    100042: wheels
+    400000: '10 Bottle '
+    400002: 10 Bottle 001
+    400004: Banco
+    400006: Banco 1
+    400008: Box008
+    400010: Node Console
+    400012: Node002
+    400014: Node003
+    400016: Node004
+    400018: Node005
+    400020: Node006
+    400022: Node01
+    400024: paper sheet
+    400026: paper sheet001
+    400028: paper sheet002
+    400030: //RootNode
+    400032: polySurface1
+    400034: Seats
+    400036: toyota
+    400038: TV
+    400040: Wheel
+    400042: wheels
+    2100000: 'Material #1095'
+    2100002: No Name
+    2100004: 'Material #4040 Slot #2'
+    2100006: 'Material #4040 Slot #3'
+    2100008: 'Material #4040 Slot #4'
+    2100010: 'Material #4040 Slot #5'
+    2100012: Default_Material
+    2300000: '10 Bottle '
+    2300002: 10 Bottle 001
+    2300004: Banco
+    2300006: Banco 1
+    2300008: Box008
+    2300010: Node002
+    2300012: Node003
+    2300014: Node004
+    2300016: Node005
+    2300018: Node006
+    2300020: Node01
+    2300022: paper sheet
+    2300024: paper sheet001
+    2300026: paper sheet002
+    2300028: polySurface1
+    2300030: toyota
+    2300032: TV
+    2300034: Wheel
+    2300036: wheels
+    3300000: '10 Bottle '
+    3300002: 10 Bottle 001
+    3300004: Banco
+    3300006: Banco 1
+    3300008: Box008
+    3300010: Node002
+    3300012: Node003
+    3300014: Node004
+    3300016: Node005
+    3300018: Node006
+    3300020: Node01
+    3300022: paper sheet
+    3300024: paper sheet001
+    3300026: paper sheet002
+    3300028: polySurface1
+    3300030: toyota
+    3300032: TV
+    3300034: Wheel
+    3300036: wheels
+    4300000: wheels
+    4300002: toyota
+    4300004: Wheel
+    4300006: TV
+    4300008: Node006
+    4300010: Node005
+    4300012: Node004
+    4300014: Node003
+    4300016: Node002
+    4300018: Node01
+    4300020: Box008
+    4300022: Banco
+    4300024: Banco
+    4300026: '10 Bottle '
+    4300028: 10 Bottle 001
+    4300030: polySurface1
+    4300032: paper sheet
+    4300034: paper sheet001
+    4300036: paper sheet002
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
