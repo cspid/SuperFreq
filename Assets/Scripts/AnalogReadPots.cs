@@ -94,7 +94,8 @@ namespace Uniduino.Examples
 			//pinValue6 = arduino.analogRead(pin6);
 		}
 
-
+            
+            
 
 
 			pot1.text = "Pot 1 - " + (pinValueA0 / 102.3);
